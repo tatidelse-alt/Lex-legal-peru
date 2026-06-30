@@ -1,0 +1,9 @@
+{
+  "name": "lex-legal-peru",
+  "version": "0.1.0",
+  "description": "Lex — practicante experto en derecho laboral y procesal peruano. Analiza casos, redacta escritos, define estrategias y revisa expedientes.",
+  "author": {
+    "name": "Lex Legal"
+  },
+  "keywords": ["legal", "derecho", "peru", "laboral", "procesal", "NLPT"]
+}
